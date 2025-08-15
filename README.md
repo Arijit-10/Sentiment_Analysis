@@ -2,21 +2,6 @@ Sentiment Analysis
 
 Sentiment analysis, also known as **opinion mining**, is a natural language processing (NLP) technique used to determine whether data is positive, negative, or neutral. This project provides a solution for analyzing the sentiment of textual data.
 
-## Table of Contents
-
-  - [About the Project](https://www.google.com/search?q=%23about-the-project)
-  - [Features](https://www.google.com/search?q=%23features)
-  - [Technologies Used](https://www.google.com/search?q=%23technologies-used)
-  - [Getting Started](https://www.google.com/search?q=%23getting-started)
-      - [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-      - [Installation](https://www.google.com/search?q=%23installation)
-  - [Usage](https://www.google.com/search?q=%23usage)
-  - [Contributing](https://www.google.com/search?q=%23contributing)
-  - [License](https://www.google.com/search?q=%23license)
-  - [Contact](https://www.google.com/search?q=%23contact)
-
------
-
 ## About The Project
 
 This project aims to implement a robust sentiment analysis system. It can be used to process text data from various sources (e.g., social media, product reviews, news articles) and classify the sentiment expressed within them. The core idea is to leverage machine learning or deep learning models to understand and categorize human emotions and opinions from text.
