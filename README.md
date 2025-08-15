@@ -1,8 +1,4 @@
-This is a general README text for a Sentiment Analysis project. Since I don't have access to the specific files in your repository, this README is based on common features and practices in sentiment analysis projects on GitHub. You should customize it with details specific to your implementation, such as the dataset used, the exact models, and how to run your code.
-
------
-
-# Sentiment Analysis
+Sentiment Analysis
 
 Sentiment analysis, also known as **opinion mining**, is a natural language processing (NLP) technique used to determine whether data is positive, negative, or neutral. This project provides a solution for analyzing the sentiment of textual data.
 
